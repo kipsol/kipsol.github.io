@@ -7,3 +7,12 @@ body {
     padding: 0;
     height: 100vh;
 }
+.navbar
+{
+    background-color: #ff0000;
+    padding: 15px 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
