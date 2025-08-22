@@ -1,1 +1,9 @@
-
+body {
+    background-image: url('zdjecia/309064657_756153802123576_4697016101649585836_n.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
